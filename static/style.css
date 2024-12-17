@@ -306,7 +306,7 @@ font-family: 'Lobster', cursive;
             transform: translateY(-20px) scale(0);
   }
 }
-@keyframes fuego {
+@keyframes Bcake {
   0%, 100% {
     background: rgba(254, 248, 97, 0.5);
     -webkit-box-shadow: 0 0 40px 10px rgba(248, 233, 209, 0.2);
